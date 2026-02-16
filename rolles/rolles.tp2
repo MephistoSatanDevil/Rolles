@@ -12,7 +12,7 @@ ALWAYS
 
 	/* Converts tra files to UTF-8 */
 	ACTION_DEFINE_ARRAY s#_reload BEGIN setup END
-	ACTION_DEFINE_ARRAY s#_noconvert BEGIN END
+	ACTION_DEFINE_ARRAY s#_noconvert BEGIN install END
 	LAF HANDLE_CHARSETS
 		INT_VAR
 			infer_charset = 1
@@ -45,7 +45,10 @@ LANGUAGE ~Italiano (traduzione di ilot)~
 LANGUAGE ~Polski (tlumaczenie: Aristo)~
          ~polish~
          ~rolles/tra/polish/setup.tra~
-
+		 
+LANGUAGE ~Simplified Chinese~
+         ~schinese~
+         ~rolles/tra/schinese/install.tra~
 
 /* ==================================== *
  *         Rolles Safyer (ToB)          *
