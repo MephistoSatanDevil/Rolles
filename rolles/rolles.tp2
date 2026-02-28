@@ -10,7 +10,7 @@ README ~rolles/readme/rolles-readme-%LANGUAGE%.txt~ ~rolles/readme/rolles-readme
 
 ALWAYS
 
-	/* Converts tra files to UTF-8 */
+	/* Convert tra files for classic games */
 	ACTION_DEFINE_ARRAY s#_reload BEGIN END
 	ACTION_DEFINE_ARRAY s#_noconvert BEGIN setup END
 	LAF HANDLE_CHARSETS
