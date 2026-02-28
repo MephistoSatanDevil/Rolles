@@ -1,729 +1,729 @@
-@9001  = ~[Mm]o¿e[ %tab%]+[Uu]¿ywaæ[ %tab%]*:~
-@9002  = ~[Nn]ie[ %tab%]+[Mm]o¿e[ %tab%]+[Uu]¿ywaæ[ %tab%]*:~
+@9001  = ~[Mm]oÂ¿e[ %tab%]+[Uu]Â¿ywaÃ¦[ %tab%]*:~
+@9002  = ~[Nn]ie[ %tab%]+[Mm]oÂ¿e[ %tab%]+[Uu]Â¿ywaÃ¦[ %tab%]*:~
 
 @0     = ~Rolles Safyer~
 @1     = ~Rolles~
 @2     = ~Rolles~
 @10    = ~Torba przechowywania w Lochu Irenicusa~
 @20    = ~Modyfikacja nie jest dostepna dla twojej gry.~
-@300   = ~P³aszcz dzikiego maga~
-@301   = ~P³aszcz dzikiego maga
+@300   = ~PÂ³aszcz dzikiego maga~
+@301   = ~PÂ³aszcz dzikiego maga
 
-Nie wiadomo, kto i kiedy uszy³ ten p³aszcz. Wydaje siê jednak prawdopodobne, ¿e wykona³ go praktykuj¹cy dzik¹ magiê czarodziej, który próbowa³ ochroniæ siê przed nieprzewidywalnymi i niepo¿¹danymi efektami swoich zaklêæ.
+Nie wiadomo, kto i kiedy uszyÂ³ ten pÂ³aszcz. Wydaje siÃª jednak prawdopodobne, Â¿e wykonaÂ³ go praktykujÂ¹cy dzikÂ¹ magiÃª czarodziej, ktÃ³ry prÃ³bowaÂ³ ochroniÃ¦ siÃª przed nieprzewidywalnymi i niepoÂ¿Â¹danymi efektami swoich zaklÃªÃ¦.
 
 PARAMETRY:
 
 Specjalne:
  +1 do Klasy Pancerza
- +1 do rzutów obronnych
+ +1 do rzutÃ³w obronnych
  Tarcza chaosu
- Pozwala zapamiêtaæ 3 dodatkowe zaklêcia 1. poziomu
+ Pozwala zapamiÃªtaÃ¦ 3 dodatkowe zaklÃªcia 1. poziomu
 Waga: 3
-Mo¿e u¿ywaæ:
+MoÂ¿e uÂ¿ywaÃ¦:
  Dziki mag
 ~
-@1000  = ~Proca +4: 'Zguba smoków Arli'~
-@1001  = ~Proca +4: 'Zguba smoków Arli'
+@1000  = ~Proca +4: 'Zguba smokÃ³w Arli'~
+@1001  = ~Proca +4: 'Zguba smokÃ³w Arli'
 
-Ta potê¿na proca ³¹czy w sobie moce Zguby smoków Arli oraz Procy naprowadzania z jedn¹ dodatkow¹ w³aœciwoœci¹: nie wymaga amunicji, gdy¿ sama tworzy w³asne widmowe pociski. Broñ ta jest dosyæ nietypowa jak na procê, poniewa¿ zadawane przez ni¹ obra¿enia s¹ powi¹zane z si³¹ jej u¿ytkownika.
+Ta potÃªÂ¿na proca Â³Â¹czy w sobie moce Zguby smokÃ³w Arli oraz Procy naprowadzania z jednÂ¹ dodatkowÂ¹ wÂ³aÅ“ciwoÅ“ciÂ¹: nie wymaga amunicji, gdyÂ¿ sama tworzy wÂ³asne widmowe pociski. BroÃ± ta jest dosyÃ¦ nietypowa jak na procÃª, poniewaÂ¿ zadawane przez niÂ¹ obraÂ¿enia sÂ¹ powiÂ¹zane z siÂ³Â¹ jej uÂ¿ytkownika.
 
-Uwaga: nie nale¿y wyposa¿aæ postaci u¿ywaj¹cej tej procy w zwyczajne pociski; proca bêdzie wówczas nimi strzelaæ zamiast u¿ywaæ w³asnych pocisków widmowych.
+Uwaga: nie naleÂ¿y wyposaÂ¿aÃ¦ postaci uÂ¿ywajÂ¹cej tej procy w zwyczajne pociski; proca bÃªdzie wÃ³wczas nimi strzelaÃ¦ zamiast uÂ¿ywaÃ¦ wÂ³asnych pociskÃ³w widmowych.
 
 PARAMETRY:
 
-Obra¿enia: 1K4 +4 (pociski), plus modyfikator za Si³ê
+ObraÂ¿enia: 1K4 +4 (pociski), plus modyfikator za SiÂ³Ãª
 TraK0: +4
 Specjalne:
- Nie potrzebuje pocisków
- Dodatkowy atak na rundê
+ Nie potrzebuje pociskÃ³w
+ Dodatkowy atak na rundÃª
 Waga: 0
-OpóŸnienie: 2
-Rodzaj bieg³oœci: proca
-Typ broni: 1-rêczna
-Wymagana si³a: 3
+OpÃ³Å¸nienie: 2
+Rodzaj biegÂ³oÅ“ci: proca
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 3
 
-Nie mo¿e u¿ywaæ:
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Kensai
  Kawaler~
 @1002  = ~Ulepszona Tarcza Baldurana~
 @1003  = ~Ulepszona Tarcza Baldurana +3
 
-Tê tarczê dzier¿y³ niegdyœ s³awny Balduran. Jest to czêœæ kompletu broni i zbroi, który zosta³ skradziony z muzeum miejskiego we Wrotach Baldura.
-Tarczê zmieniono w magiczny sposób, by po³¹czyæ jej w³aœciwoœci z cechami Tarczy odbiæ i Tarczy zaginionych, a tak¿e nadaæ jej zdolnoœæ ochrony u¿ytkownika przed niszczycielskimi si³ami ¿ywio³ów.
+TÃª tarczÃª dzierÂ¿yÂ³ niegdyÅ“ sÂ³awny Balduran. Jest to czÃªÅ“Ã¦ kompletu broni i zbroi, ktÃ³ry zostaÂ³ skradziony z muzeum miejskiego we Wrotach Baldura.
+TarczÃª zmieniono w magiczny sposÃ³b, by poÂ³Â¹czyÃ¦ jej wÂ³aÅ“ciwoÅ“ci z cechami Tarczy odbiÃ¦ i Tarczy zaginionych, a takÂ¿e nadaÃ¦ jej zdolnoÅ“Ã¦ ochrony uÂ¿ytkownika przed niszczycielskimi siÂ³ami Â¿ywioÂ³Ã³w.
 
 PARAMETRY:
 
 Klasa pancerza: +4
 Specjalne:
- Odbija promienie obserwatorów
- Odbija pociski z powrotem w atakuj¹cego
- +10% do odpornoœci na magiê
- +20% do odpornoœci na ogieñ, zimno, kwas i elektrycznoœæ
+ Odbija promienie obserwatorÃ³w
+ Odbija pociski z powrotem w atakujÂ¹cego
+ +10% do odpornoÅ“ci na magiÃª
+ +20% do odpornoÅ“ci na ogieÃ±, zimno, kwas i elektrycznoÅ“Ã¦
 Waga: 5
-Wymagana si³a: 12
-Nie mo¿e u¿ywaæ:
+Wymagana siÂ³a: 12
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Bard
  Druid
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
 ~
-@1004  = ~Rêkawice wielkiego mistrzostwa~
-@1005  = ~Rêkawice wielkiego mistrzostwa
+@1004  = ~RÃªkawice wielkiego mistrzostwa~
+@1005  = ~RÃªkawice wielkiego mistrzostwa
 
-Te wyborne rêkawice przejê³y w³aœciwoœci kilku par rêkawic i bransolet, które pos³u¿y³y do ich stworzenia. Podnosz¹ one umiejêtnoœci ofensywne i defensywne nosz¹cego i godne s¹ najwiêkszych wojowników.
+Te wyborne rÃªkawice przejÃªÂ³y wÂ³aÅ“ciwoÅ“ci kilku par rÃªkawic i bransolet, ktÃ³re posÂ³uÂ¿yÂ³y do ich stworzenia. PodnoszÂ¹ one umiejÃªtnoÅ“ci ofensywne i defensywne noszÂ¹cego i godne sÂ¹ najwiÃªkszych wojownikÃ³w.
 
 PARAMETRY:
 
-Obra¿enia: +2
+ObraÂ¿enia: +2
 TraK0: +2
-Si³a: +1
+SiÂ³a: +1
 Klasa Pancerza: +1
 Specjalne:
- Dwa razy dziennie pozwalaj¹ rzucaæ Ulepszone przyspieszenie ruchów na 5 rund
+ Dwa razy dziennie pozwalajÂ¹ rzucaÃ¦ Ulepszone przyspieszenie ruchÃ³w na 5 rund
 Waga: 2
-Nie mo¿e u¿ywaæ:
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Kensai
- Zabójca magów
+ ZabÃ³jca magÃ³w
 ~
-@1006  = ~Naszyjnik stabilnoœci czasu~
-@1007  = ~Naszyjnik stabilnoœci czasu
+@1006  = ~Naszyjnik stabilnoÅ“ci czasu~
+@1007  = ~Naszyjnik stabilnoÅ“ci czasu
 
-Amulet blokowania czarów okaza³ siê byæ siê jednym z niewielu przedmiotów zdolnych wch³aniaæ zaklêcie Zatrzymania czasu. Podczas gdy ta jedna w³aœciwoœæ czyni³aby naszyjnik bezcennym, dodatkowo jeszcze zapewnia on nosz¹cemu znacz¹ce korzyœci ochronne.
+Amulet blokowania czarÃ³w okazaÂ³ siÃª byÃ¦ siÃª jednym z niewielu przedmiotÃ³w zdolnych wchÂ³aniaÃ¦ zaklÃªcie Zatrzymania czasu. Podczas gdy ta jedna wÂ³aÅ“ciwoÅ“Ã¦ czyniÂ³aby naszyjnik bezcennym, dodatkowo jeszcze zapewnia on noszÂ¹cemu znaczÂ¹ce korzyÅ“ci ochronne.
 
 PARAMETRY:
 
 Specjalne:
  +2 do Klasy Pancerza
- +2 do rzutów obronnych
- +10% do odpornoœci na magiê
- Niepodatnoœæ na Zatrzymanie czasu
+ +2 do rzutÃ³w obronnych
+ +10% do odpornoÅ“ci na magiÃª
+ NiepodatnoÅ“Ã¦ na Zatrzymanie czasu
 
-Nie mo¿e u¿ywaæ:
- Zabójca magów
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZabÃ³jca magÃ³w
  Mag (jedno-, dwu- i wieloklasowiec)
  Czarownik
 ~
 @1008  = ~Ulepszony amulet mocy~
 @1009  = ~Ulepszony amulet mocy
 
-Na tym amulecie znajduje siê sygnatura magii Constera Damona, arcymaga, który poleg³ w Roku Gniewu Smoka. Amulet mo¿e trochê wyblak³ od ognia i czasu, ale wci¹¿ s³ychaæ jego s³awne okrzyki: "Odbieram ci moc!", "Niech mnie us³ysz¹!", "Œmieræ nadchodzi szybko!" i "Nic mi nie zabieraj!". Czêsto go u¿ywano i wiele razy zmienia³ w³aœciciela wœród krwi i bitew.
-Amulet zosta³ w magiczny sposób udoskonalony i obecnie jest zdolny odmieniæ nawet najbardziej zapominalskiego i be³kotliwego maga w si³ê, z któr¹ nale¿y siê liczyæ.
+Na tym amulecie znajduje siÃª sygnatura magii Constera Damona, arcymaga, ktÃ³ry polegÂ³ w Roku Gniewu Smoka. Amulet moÂ¿e trochÃª wyblakÂ³ od ognia i czasu, ale wciÂ¹Â¿ sÂ³ychaÃ¦ jego sÂ³awne okrzyki: "Odbieram ci moc!", "Niech mnie usÂ³yszÂ¹!", "Å’mierÃ¦ nadchodzi szybko!" i "Nic mi nie zabieraj!". CzÃªsto go uÂ¿ywano i wiele razy zmieniaÂ³ wÂ³aÅ“ciciela wÅ“rÃ³d krwi i bitew.
+Amulet zostaÂ³ w magiczny sposÃ³b udoskonalony i obecnie jest zdolny odmieniÃ¦ nawet najbardziej zapominalskiego i beÂ³kotliwego maga w siÂ³Ãª, z ktÃ³rÂ¹ naleÂ¿y siÃª liczyÃ¦.
 
 PARAMETRY:
 
 Specjalne:
  +1 do Klasy Pancerza
- +1 do rzutów obronnych
- +10% do odpornoœci na magiê
+ +1 do rzutÃ³w obronnych
+ +10% do odpornoÅ“ci na magiÃª
  +2 do Inteligancji
- +2 do M¹droœci
+ +2 do MÂ¹droÅ“ci
  +30 do wiedzy
- Ug³osowienie
- Zmniejsza szybkoœæ rzucania zaklêæ o 1
- Odpornoœæ na wyssanie poziomów
-Nie mo¿e u¿ywaæ:
- Z³odziej
+ UgÂ³osowienie
+ Zmniejsza szybkoÅ“Ã¦ rzucania zaklÃªÃ¦ o 1
+ OdpornoÅ“Ã¦ na wyssanie poziomÃ³w
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZÂ³odziej
  Wojownik
  Mnich
- Barbarzyñca
- Zabójca magów
+ BarbarzyÃ±ca
+ ZabÃ³jca magÃ³w
 ~
-@1010  = ~Odnowiona maska króla Strohma III~
-@1011  = ~Odnowiona maska króla Strohma III
+@1010  = ~Odnowiona maska krÃ³la Strohma III~
+@1011  = ~Odnowiona maska krÃ³la Strohma III
 
-Jest to staro¿ytna maska poœmiertna króla Strohma III. Chocia¿ jej moce zanik³y wraz z up³ywem czasu, czêœæ jej pierwotnych w³aœciwoœci zosta³a przywrócona. Moc maski powiêkszono ponadto dziêki dwóm kamieniom Ioun zespolonym z ni¹ przy pomocy magii.
+Jest to staroÂ¿ytna maska poÅ“miertna krÃ³la Strohma III. ChociaÂ¿ jej moce zanikÂ³y wraz z upÂ³ywem czasu, czÃªÅ“Ã¦ jej pierwotnych wÂ³aÅ“ciwoÅ“ci zostaÂ³a przywrÃ³cona. Moc maski powiÃªkszono ponadto dziÃªki dwÃ³m kamieniom Ioun zespolonym z niÂ¹ przy pomocy magii.
 
 PARAMETRY:
 
 Specjalne:
  +1 do Klasy Pancerza
  +1 do TraK0
- +10% do punktów ¿ycia
- Odpornoœæ na Oœlepienie
+ +10% do punktÃ³w Â¿ycia
+ OdpornoÅ“Ã¦ na OÅ“lepienie
  Prawdziwe widzenie
  Raz dziennie przyzywa ifrita
 Waga: 1
 
-Nie mo¿e u¿ywaæ:
+Nie moÂ¿e uÂ¿ywaÃ¦:
 ~
-@1012  = ~Topór bojowy +4 'Ogieñ i Lód'~
-@1013  = ~Topór bojowy +4 'Ogieñ i Lód'
+@1012  = ~TopÃ³r bojowy +4 'OgieÃ± i LÃ³d'~
+@1013  = ~TopÃ³r bojowy +4 'OgieÃ± i LÃ³d'
 
-Ta potê¿na broñ jest w stanie raziæ wroga zarówno w zwarciu jak i na dystans. Ka¿de trafienie tym toporem powoduje dodatkowe obra¿enia od ognia, zimna oraz kwasu.
+Ta potÃªÂ¿na broÃ± jest w stanie raziÃ¦ wroga zarÃ³wno w zwarciu jak i na dystans. KaÂ¿de trafienie tym toporem powoduje dodatkowe obraÂ¿enia od ognia, zimna oraz kwasu.
 
 PARAMETRY:
 
-Obra¿enia (walka wrêcz): 1K8 +4
-Obra¿enia (rzucony): 1K6 +4
+ObraÂ¿enia (walka wrÃªcz): 1K8 +4
+ObraÂ¿enia (rzucony): 1K6 +4
 TraK0: +4
-Typ obra¿eñ (walka wrêcz): sieczne
-Typ obra¿eñ (rzucony): pocisk (k³ute)
+Typ obraÂ¿eÃ± (walka wrÃªcz): sieczne
+Typ obraÂ¿eÃ± (rzucony): pocisk (kÂ³ute)
 Specjalne:
- +2 pkt obra¿eñ od ognia
- +2 pkt obra¿eñ od zimna
- +2 pkt obra¿eñ od kwasu
- Po rzuceniu wraca do w³aœciciela
+ +2 pkt obraÂ¿eÃ± od ognia
+ +2 pkt obraÂ¿eÃ± od zimna
+ +2 pkt obraÂ¿eÃ± od kwasu
+ Po rzuceniu wraca do wÂ³aÅ“ciciela
 Waga: 5
-OpóŸnienie: 3
+OpÃ³Å¸nienie: 3
 Umagicznienie: +5
-Rodzaj bieg³oœci: topór
-Typ broni: 1-rêczna
-Wymagana si³a: 10
-Nie mo¿e u¿ywaæ:
+Rodzaj biegÂ³oÅ“ci: topÃ³r
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 10
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
- W³adca zwierz¹t
+ WÂ³adca zwierzÂ¹t
 ~
-@1014  = ~Œwiêta sprawiedliwoœæ~
-@1015  = ~Œwiêta sprawiedliwoœæ
+@1014  = ~Å’wiÃªta sprawiedliwoÅ“Ã¦~
+@1015  = ~Å’wiÃªta sprawiedliwoÅ“Ã¦
 
-Ten oburêczny miecz o niespotykanej potêdze ³¹czy w sobie moce dwóch uœwiêconych ostrzy: Dziennej gwiazdy oraz Œwiêtego mœciciela - Karsomira. Orê¿ ten pa³a wielka nienawiœci¹ do si³ z³a i chaosu, dlatego mog¹ go dzier¿yæ wy³¹cznie osoby o czystym sercu.
+Ten oburÃªczny miecz o niespotykanej potÃªdze Â³Â¹czy w sobie moce dwÃ³ch uÅ“wiÃªconych ostrzy: Dziennej gwiazdy oraz Å’wiÃªtego mÅ“ciciela - Karsomira. OrÃªÂ¿ ten paÂ³a wielka nienawiÅ“ciÂ¹ do siÂ³ zÂ³a i chaosu, dlatego mogÂ¹ go dzierÂ¿yÃ¦ wyÂ³Â¹cznie osoby o czystym sercu.
 
 PARAMETRY:
 
-Obra¿enia: 1K12 +5, zadaje podwójne obra¿enia nieumar³ym
-TraK0: +5, +7 przeciwko z³ym istotom
-Typ obra¿eñ: sieczne
+ObraÂ¿enia: 1K12 +5, zadaje podwÃ³jne obraÂ¿enia nieumarÂ³ym
+TraK0: +5, +7 przeciwko zÂ³ym istotom
+Typ obraÂ¿eÃ±: sieczne
 Specjalne:
- +50% do odpornoœci na magiê
- Odpornoœæ na wyssanie poziomów
- Trzy razy dziennie mo¿e rzucaæ Rozproszenie magii
- Oprócz innych premii zadaje te¿ dodatkowe +4 obra¿eñ z³ym wrogom, +5 obra¿eñ chaotycznym z³ym wrogom
- Kiedy miecz uderzy ofiarê, powoduje rozproszenie magii
- Dwa razy dziennie mo¿e rzucaæ Promieñ s³oñca, zadaj¹cy 3K6 pkt. obra¿eñ (rzut obronny przeciwko czarom lub oœlepienie na 10 rund), nieumarli otrzymuj¹ dodatkowe 1K6 pkt obra¿eñ na poziom rzucaj¹cego (ka¿dy musi wykonaæ rzut obronny przeciw magii lub zostaje zniszczony). Zasiêg i obszar dzia³ania to 6 metrów.
+ +50% do odpornoÅ“ci na magiÃª
+ OdpornoÅ“Ã¦ na wyssanie poziomÃ³w
+ Trzy razy dziennie moÂ¿e rzucaÃ¦ Rozproszenie magii
+ OprÃ³cz innych premii zadaje teÂ¿ dodatkowe +4 obraÂ¿eÃ± zÂ³ym wrogom, +5 obraÂ¿eÃ± chaotycznym zÂ³ym wrogom
+ Kiedy miecz uderzy ofiarÃª, powoduje rozproszenie magii
+ Dwa razy dziennie moÂ¿e rzucaÃ¦ PromieÃ± sÂ³oÃ±ca, zadajÂ¹cy 3K6 pkt. obraÂ¿eÃ± (rzut obronny przeciwko czarom lub oÅ“lepienie na 10 rund), nieumarli otrzymujÂ¹ dodatkowe 1K6 pkt obraÂ¿eÃ± na poziom rzucajÂ¹cego (kaÂ¿dy musi wykonaÃ¦ rzut obronny przeciw magii lub zostaje zniszczony). ZasiÃªg i obszar dziaÂ³ania to 6 metrÃ³w.
 Waga: 6
-OpóŸnienie: 4
+OpÃ³Å¸nienie: 4
 Umagicznienie: +6
-Rodzaj bieg³oœci: miecz oburêczny
-Typ broni: 2-rêczna
-Wymagana si³a: 14
-Mo¿e u¿ywaæ:
+Rodzaj biegÂ³oÅ“ci: miecz oburÃªczny
+Typ broni: 2-rÃªczna
+Wymagana siÂ³a: 14
+MoÂ¿e uÂ¿ywaÃ¦:
  Paladyn
 ~
-@1016  = ~Œwiêta sprawiedliwoœæ~
-@1017  = ~Œwiêta sprawiedliwoœæ
+@1016  = ~Å’wiÃªta sprawiedliwoÅ“Ã¦~
+@1017  = ~Å’wiÃªta sprawiedliwoÅ“Ã¦
 
-Ten d³ugi miecz o niespotykanej potêdze ³¹czy w sobie moce dwóch uœwiêconych ostrzy: Dziennej gwiazdy oraz Œwiêtego mœciciela - Karsomira. Orê¿ ten pa³a wielka nienawiœci¹ do si³ z³a i chaosu, dlatego mog¹ go dzier¿yæ wy³¹cznie osoby o czystym sercu.
+Ten dÂ³ugi miecz o niespotykanej potÃªdze Â³Â¹czy w sobie moce dwÃ³ch uÅ“wiÃªconych ostrzy: Dziennej gwiazdy oraz Å’wiÃªtego mÅ“ciciela - Karsomira. OrÃªÂ¿ ten paÂ³a wielka nienawiÅ“ciÂ¹ do siÂ³ zÂ³a i chaosu, dlatego mogÂ¹ go dzierÂ¿yÃ¦ wyÂ³Â¹cznie osoby o czystym sercu.
 
 PARAMETRY:
 
-Obra¿enia: 1K8 +5, zadaje podwójne obra¿enia nieumar³ym
-TraK0: +5, +7 przeciwko z³ym istotom
-Typ obra¿eñ: sieczne
+ObraÂ¿enia: 1K8 +5, zadaje podwÃ³jne obraÂ¿enia nieumarÂ³ym
+TraK0: +5, +7 przeciwko zÂ³ym istotom
+Typ obraÂ¿eÃ±: sieczne
 Specjalne:
- +50% do odpornoœci na magiê
- Odpornoœæ na wyssanie poziomów
- Trzy razy dziennie mo¿e rzucaæ Rozproszenie magii
- Oprócz innych premii zadaje te¿ dodatkowe +4 obra¿eñ z³ym wrogom, +5 obra¿eñ chaotycznym z³ym wrogom
- Kiedy miecz uderzy ofiarê, powoduje rozproszenie magii
- Dwa razy dziennie mo¿e rzucaæ Promieñ s³oñca, zadaj¹cy 3K6 pkt. obra¿eñ (rzut obronny przeciwko czarom lub oœlepienie na 10 rund), nieumarli otrzymuj¹ dodatkowe 1K6 pkt obra¿eñ na poziom rzucaj¹cego (ka¿dy musi wykonaæ rzut obronny przeciw magii lub zostaje zniszczony). Zasiêg i obszar dzia³ania to 6 metrów.
+ +50% do odpornoÅ“ci na magiÃª
+ OdpornoÅ“Ã¦ na wyssanie poziomÃ³w
+ Trzy razy dziennie moÂ¿e rzucaÃ¦ Rozproszenie magii
+ OprÃ³cz innych premii zadaje teÂ¿ dodatkowe +4 obraÂ¿eÃ± zÂ³ym wrogom, +5 obraÂ¿eÃ± chaotycznym zÂ³ym wrogom
+ Kiedy miecz uderzy ofiarÃª, powoduje rozproszenie magii
+ Dwa razy dziennie moÂ¿e rzucaÃ¦ PromieÃ± sÂ³oÃ±ca, zadajÂ¹cy 3K6 pkt. obraÂ¿eÃ± (rzut obronny przeciwko czarom lub oÅ“lepienie na 10 rund), nieumarli otrzymujÂ¹ dodatkowe 1K6 pkt obraÂ¿eÃ± na poziom rzucajÂ¹cego (kaÂ¿dy musi wykonaÃ¦ rzut obronny przeciw magii lub zostaje zniszczony). ZasiÃªg i obszar dziaÂ³ania to 6 metrÃ³w.
 Waga: 2
-OpóŸnienie: 2
+OpÃ³Å¸nienie: 2
 Umagicznienie: +6
-Rodzaj bieg³oœci: d³ugi miecz
-Typ broni: 1-rêczna
-Wymagana si³a: 6
-Mo¿e u¿ywaæ:
+Rodzaj biegÂ³oÅ“ci: dÂ³ugi miecz
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 6
+MoÂ¿e uÂ¿ywaÃ¦:
  Paladyn
 ~
 @1018  = ~Ulepszony pas wzmocnienia~
 @1019  = ~Ulepszony pas wzmocnienia
 
-Ten pas zosta³ w magiczny sposób ulepszony, co przywróci³o mu jego dawn¹ moc.
+Ten pas zostaÂ³ w magiczny sposÃ³b ulepszony, co przywrÃ³ciÂ³o mu jego dawnÂ¹ moc.
 
 PARAMETRY:
 
 Specjalne:
  Kondycja: 18
- Odpornoœæ na choroby
- Regeneruje 1 pkt ¿ycia co 3 sekundy
+ OdpornoÅ“Ã¦ na choroby
+ Regeneruje 1 pkt Â¿ycia co 3 sekundy
 Waga: 2
 
-Nie mo¿e u¿ywaæ:
- Zabójca magów
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZabÃ³jca magÃ³w
 ~
 @1020  = ~Ulepszony kostur leczenia~
 @1021  = ~Ulepszony kostur leczenia
 
-Mówi siê, ¿e Torm stworzy³ te przedmioty w czasach wielkiego niepokoju i wrêczy³ je kap³anom, którzy zajmowali siê rannymi, chorymi i zatrutymi. Po po³¹czeniu z Kosturem kap³ana powsta³a skuteczna broñ, która powoli, w przeci¹gu oœmiu godzin, odzyskuje swoje moce lecznicze.
+MÃ³wi siÃª, Â¿e Torm stworzyÂ³ te przedmioty w czasach wielkiego niepokoju i wrÃªczyÂ³ je kapÂ³anom, ktÃ³rzy zajmowali siÃª rannymi, chorymi i zatrutymi. Po poÂ³Â¹czeniu z Kosturem kapÂ³ana powstaÂ³a skuteczna broÃ±, ktÃ³ra powoli, w przeciÂ¹gu oÅ“miu godzin, odzyskuje swoje moce lecznicze.
 
 PARAMETRY:
 
-Obra¿enia: 1K6 +4
+ObraÂ¿enia: 1K6 +4
 TraK0: +4
-Typ obra¿eñ: obuchowe
+Typ obraÂ¿eÃ±: obuchowe
 Specjalne:
  +2 do Klasy Pancerza
- Kosztem jednego ³adunku leczy 4-24 +4 P¯, choroby, œlepotê, efekt Unieruchomienia i neutralizuje trucizny - 5 razy dziennie
+ Kosztem jednego Â³adunku leczy 4-24 +4 PÂ¯, choroby, Å“lepotÃª, efekt Unieruchomienia i neutralizuje trucizny - 5 razy dziennie
  Wskrzeszenie - raz dziennie
 Waga: 4
-OpóŸnienie: 3
-Rodzaj bieg³oœci: kij
-Typ broni: 2-rêczna
-Wymagana si³a: 5
-Nie mo¿e u¿ywaæ:
- Z³odziej
+OpÃ³Å¸nienie: 3
+Rodzaj biegÂ³oÅ“ci: kij
+Typ broni: 2-rÃªczna
+Wymagana siÂ³a: 5
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZÂ³odziej
  Wojownik
  Mag
  Bard
  Mnich
 ~
-@1022  = ~Rêkawice mia¿d¿enia 'Rêka wampira'~
-@1023  = ~Rêkawice mia¿d¿enia 'Rêka wampira'
+@1022  = ~RÃªkawice miaÂ¿dÂ¿enia 'RÃªka wampira'~
+@1023  = ~RÃªkawice miaÂ¿dÂ¿enia 'RÃªka wampira'
 
-Te Rêkawice mia¿d¿enia sta³y siê potê¿nym artefaktem, gdy przeniesiono na nie moce z d³oni prastarego wampira - Daka Sontana. Nosz¹cy rêkawice uzyskuje pewne wampiryczne moce, jak zdolnoœæ regeneracji i ochronê przed negatywn¹ energi¹.
+Te RÃªkawice miaÂ¿dÂ¿enia staÂ³y siÃª potÃªÂ¿nym artefaktem, gdy przeniesiono na nie moce z dÂ³oni prastarego wampira - Daka Sontana. NoszÂ¹cy rÃªkawice uzyskuje pewne wampiryczne moce, jak zdolnoÅ“Ã¦ regeneracji i ochronÃª przed negatywnÂ¹ energiÂ¹.
 
 PARAMETRY:
 
-Obra¿enia: +4 przy ataku piêœciami
-TraK0: +4 przy ataku piêœciami
+ObraÂ¿enia: +4 przy ataku piÃªÅ“ciami
+TraK0: +4 przy ataku piÃªÅ“ciami
 Specjalne:
- +30% do odpornoœci na zimno
- +30% do odpornoœci na elektrycznoœæ
- Odpornoœæ na strach, unieruchomienie i za³amanie morale
- Odpornoœæ na wyssanie poziomów
- Regeneruj¹ 1 pkt ¿ycia co 3 sekundy
+ +30% do odpornoÅ“ci na zimno
+ +30% do odpornoÅ“ci na elektrycznoÅ“Ã¦
+ OdpornoÅ“Ã¦ na strach, unieruchomienie i zaÂ³amanie morale
+ OdpornoÅ“Ã¦ na wyssanie poziomÃ³w
+ RegenerujÂ¹ 1 pkt Â¿ycia co 3 sekundy
 Waga: 2
-Mo¿e u¿ywaæ:
+MoÂ¿e uÂ¿ywaÃ¦:
  Mnich
 ~
 @1024  = ~Niszczyciel +4~
 @1025  = ~Niszczyciel +4
 
-Ten wielki i ciê¿ki oburêczny miecz powsta³ w wyniku magicznego po³¹czenia kilku mniejszych ostrzy i korzysta z mocy ka¿dego z nich. Ze wzglêdu na du¿¹ wagê miecza przeciwnik odczuwa trafienie niemal w równym stopniu jak uderzenie m³otem co i ciêcie mieczem. Jednak¿e z tego samego powodu wymagana jest znaczna si³a, by w ogóle móc go dzier¿yæ.
+Ten wielki i ciÃªÂ¿ki oburÃªczny miecz powstaÂ³ w wyniku magicznego poÂ³Â¹czenia kilku mniejszych ostrzy i korzysta z mocy kaÂ¿dego z nich. Ze wzglÃªdu na duÂ¿Â¹ wagÃª miecza przeciwnik odczuwa trafienie niemal w rÃ³wnym stopniu jak uderzenie mÂ³otem co i ciÃªcie mieczem. JednakÂ¿e z tego samego powodu wymagana jest znaczna siÂ³a, by w ogÃ³le mÃ³c go dzierÂ¿yÃ¦.
 
 PARAMETRY:
 
-Obra¿enia: 2K6 +4, dodatkowo 1K4 obra¿eñ obuchowych
+ObraÂ¿enia: 2K6 +4, dodatkowo 1K4 obraÂ¿eÃ± obuchowych
 TraK0: +4
-Typ obra¿eñ: sieczne
+Typ obraÂ¿eÃ±: sieczne
 Specjalne:
- Odpornoœæ na Zauroczenie i Zamêt
- Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposób punkty nie przekrocz¹ jednak jego maksymalnych P¯.
- Przy ka¿dym trafieniu 10% szansa na odrzucenie celu i pozbawienie go przytomnoœci oraz zadanie 1K6 obra¿eñ obuchowych.
- Rozwœcieczenie 3 razy dziennie
+ OdpornoÅ“Ã¦ na Zauroczenie i ZamÃªt
+ KaÂ¿de trafienie wysysa z ofiary 2 punkty Â¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposÃ³b punkty nie przekroczÂ¹ jednak jego maksymalnych PÂ¯.
+ Przy kaÂ¿dym trafieniu 10% szansa na odrzucenie celu i pozbawienie go przytomnoÅ“ci oraz zadanie 1K6 obraÂ¿eÃ± obuchowych.
+ RozwÅ“cieczenie 3 razy dziennie
 Waga: 18
-OpóŸnienie: 9
+OpÃ³Å¸nienie: 9
 Umagicznienie: +5
-Rodzaj bieg³oœci: miecz oburêczny
-Typ broni: 2-rêczna
-Wymagana si³a: 19
-Nie mo¿e u¿ywaæ:
+Rodzaj biegÂ³oÅ“ci: miecz oburÃªczny
+Typ broni: 2-rÃªczna
+Wymagana siÂ³a: 19
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
- W³adca zwierz¹t
+ WÂ³adca zwierzÂ¹t
 ~
 @1026  = ~Niszczyciel +5~
 @1027  = ~Niszczyciel +5
 
-Ten wielki i ciê¿ki oburêczny miecz powsta³ w wyniku magicznego po³¹czenia kilku mniejszych ostrzy i korzysta z mocy ka¿dego z nich. Ze wzglêdu na du¿¹ wagê miecza przeciwnik odczuwa trafienie niemal w równym stopniu jak uderzenie m³otem co i ciêcie mieczem. Jednak¿e z tego samego powodu wymagana jest znaczna si³a, by w ogóle móc go dzier¿yæ.
+Ten wielki i ciÃªÂ¿ki oburÃªczny miecz powstaÂ³ w wyniku magicznego poÂ³Â¹czenia kilku mniejszych ostrzy i korzysta z mocy kaÂ¿dego z nich. Ze wzglÃªdu na duÂ¿Â¹ wagÃª miecza przeciwnik odczuwa trafienie niemal w rÃ³wnym stopniu jak uderzenie mÂ³otem co i ciÃªcie mieczem. JednakÂ¿e z tego samego powodu wymagana jest znaczna siÂ³a, by w ogÃ³le mÃ³c go dzierÂ¿yÃ¦.
 
 PARAMETRY:
 
-Obra¿enia: 2K8 +5, dodatkowo 1K6 obra¿eñ obuchowych
+ObraÂ¿enia: 2K8 +5, dodatkowo 1K6 obraÂ¿eÃ± obuchowych
 TraK0: +5
-Typ obra¿eñ: sieczne
+Typ obraÂ¿eÃ±: sieczne
 Specjalne:
- +10% do odpornoœci na magiê
- Odpornoœæ na Zauroczenie i Zamêt
- Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposób punkty nie przekrocz¹ jednak jego maksymalnych P¯.
- Przy ka¿dym trafieniu 15% szansa na odrzucenie celu i pozbawienie go przytomnoœci oraz zadanie 1K8 obra¿eñ obuchowych
- 10% szansa przy ka¿dym trafieniu, ¿e cel bêdzie musia³ wykonaæ rzut obronny przeciw œmierci (z modyfikatorem -2) lub zginie na miejscu.
- Ka¿de trafienie powoduje, ¿e cel otrzymuje kumulatywny modyfikator -2 do TraK0, efekt dzia³a przez 10 rund
- Rozwœcieczenie 3 razy dziennie
+ +10% do odpornoÅ“ci na magiÃª
+ OdpornoÅ“Ã¦ na Zauroczenie i ZamÃªt
+ KaÂ¿de trafienie wysysa z ofiary 2 punkty Â¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposÃ³b punkty nie przekroczÂ¹ jednak jego maksymalnych PÂ¯.
+ Przy kaÂ¿dym trafieniu 15% szansa na odrzucenie celu i pozbawienie go przytomnoÅ“ci oraz zadanie 1K8 obraÂ¿eÃ± obuchowych
+ 10% szansa przy kaÂ¿dym trafieniu, Â¿e cel bÃªdzie musiaÂ³ wykonaÃ¦ rzut obronny przeciw Å“mierci (z modyfikatorem -2) lub zginie na miejscu.
+ KaÂ¿de trafienie powoduje, Â¿e cel otrzymuje kumulatywny modyfikator -2 do TraK0, efekt dziaÂ³a przez 10 rund
+ RozwÅ“cieczenie 3 razy dziennie
 Waga: 24
-OpóŸnienie: 9
+OpÃ³Å¸nienie: 9
 Umagicznienie: +6
-Rodzaj bieg³oœci: miecz oburêczny
-Typ broni: 2-rêczna
-Wymagana si³a: 21
-Nie mo¿e u¿ywaæ:
+Rodzaj biegÂ³oÅ“ci: miecz oburÃªczny
+Typ broni: 2-rÃªczna
+Wymagana siÂ³a: 21
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
- W³adca zwierz¹t
+ WÂ³adca zwierzÂ¹t
 ~
-@1028  = ~P³aszcz doskona³oœci~
-@1029  = ~P³aszcz doskona³oœci
+@1028  = ~PÂ³aszcz doskonaÂ³oÅ“ci~
+@1029  = ~PÂ³aszcz doskonaÂ³oÅ“ci
 
-Dziêki w³óknom z pancerza ankhega, którymi przetykany jest ten p³aszcz, osoba w niego ubrana mo¿e przemierzaæ ciemne alejki bez obaw, ¿e otrzyma cios sztyletem w plecy. Ponadto zapinka p³aszcza, wykonana z Amuletu z nefrytem, zapewnia œwietn¹ ochronê przeciwko czarom oddzia³uj¹cym na umys³.
+DziÃªki wÂ³Ã³knom z pancerza ankhega, ktÃ³rymi przetykany jest ten pÂ³aszcz, osoba w niego ubrana moÂ¿e przemierzaÃ¦ ciemne alejki bez obaw, Â¿e otrzyma cios sztyletem w plecy. Ponadto zapinka pÂ³aszcza, wykonana z Amuletu z nefrytem, zapewnia Å“wietnÂ¹ ochronÃª przeciwko czarom oddziaÂ³ujÂ¹cym na umysÂ³.
 
 PARAMETRY:
 
 Specjalne:
  +2 do Klasy Pancerza
- +2 do rzutów obronnych
- Odpornoœæ na cios w plecy
- Chroni przed wszelkiego rodzaju zaklêciami oddzia³uj¹cymi na umys³ - zauroczenie, zamêt, strach, itd.
+ +2 do rzutÃ³w obronnych
+ OdpornoÅ“Ã¦ na cios w plecy
+ Chroni przed wszelkiego rodzaju zaklÃªciami oddziaÂ³ujÂ¹cymi na umysÂ³ - zauroczenie, zamÃªt, strach, itd.
 Waga: 5
 
-Nie mo¿e u¿ywaæ:
- Zabójca magów
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZabÃ³jca magÃ³w
 ~
-@1030  = ~Krótki ³uk Tansherona +4~
-@1031  = ~Krótki ³uk Tansherona +4
+@1030  = ~KrÃ³tki Â³uk Tansherona +4~
+@1031  = ~KrÃ³tki Â³uk Tansherona +4
 
-Cienka, postrzêpiona ciêciwa tego ³uku wygl¹da na bezu¿yteczn¹, ale gdy siê j¹ naci¹gnie mo¿na wyczuæ materialn¹ ale niewidzialn¹ strza³ê. Lisz Tansheron da³ ten ³uk swojemu Gwardziœcie, stra¿nikowi jego domu stoj¹cemu na dachu wie¿y bez wejœcia i wyjœcia. Gdy ktokolwiek siê zbli¿y³, spada³ na niego niekoñcz¹cy siê grad niewidzialnych strza³ i trwa³ dopóki ta osoba nie zginê³a lub nie uciek³a. Nie wiadomo jak odebrano ten ³uk Gwardziœcie, ale by³aby to z pewnoœci¹ wspania³a karczemna opowieœæ.
-Po zespoleniu z Tuigañskim ³ukiem sta³ siê jeszcze potê¿niejsz¹ broni¹.
+Cienka, postrzÃªpiona ciÃªciwa tego Â³uku wyglÂ¹da na bezuÂ¿ytecznÂ¹, ale gdy siÃª jÂ¹ naciÂ¹gnie moÂ¿na wyczuÃ¦ materialnÂ¹ ale niewidzialnÂ¹ strzaÂ³Ãª. Lisz Tansheron daÂ³ ten Â³uk swojemu GwardziÅ“cie, straÂ¿nikowi jego domu stojÂ¹cemu na dachu wieÂ¿y bez wejÅ“cia i wyjÅ“cia. Gdy ktokolwiek siÃª zbliÂ¿yÂ³, spadaÂ³ na niego niekoÃ±czÂ¹cy siÃª grad niewidzialnych strzaÂ³ i trwaÂ³ dopÃ³ki ta osoba nie zginÃªÂ³a lub nie uciekÂ³a. Nie wiadomo jak odebrano ten Â³uk GwardziÅ“cie, ale byÂ³aby to z pewnoÅ“ciÂ¹ wspaniaÂ³a karczemna opowieÅ“Ã¦.
+Po zespoleniu z TuigaÃ±skim Â³ukiem staÂ³ siÃª jeszcze potÃªÂ¿niejszÂ¹ broniÂ¹.
 
-Uwaga: nie nale¿y wyposa¿aæ postaci u¿ywaj¹cej tego ³uku w zwyczajne strza³y; ³uk bêdzie wówczas nimi strzelaæ zamiast u¿ywaæ w³asnych strza³ widmowych.
+Uwaga: nie naleÂ¿y wyposaÂ¿aÃ¦ postaci uÂ¿ywajÂ¹cej tego Â³uku w zwyczajne strzaÂ³y; Â³uk bÃªdzie wÃ³wczas nimi strzelaÃ¦ zamiast uÂ¿ywaÃ¦ wÂ³asnych strzaÂ³ widmowych.
 
 PARAMETRY:
 
-Obra¿enia: 1K6
+ObraÂ¿enia: 1K6
 TraK0: +4
 Specjalne:
- Ten potê¿ny ³uk nie potrzebuje amunicji
- 3 strza³y na rundê
- 25% szansa przy ka¿dym trafieniu na zadanie dodatkowych 1K6 pkt obra¿eñ k³utych
+ Ten potÃªÂ¿ny Â³uk nie potrzebuje amunicji
+ 3 strzaÂ³y na rundÃª
+ 25% szansa przy kaÂ¿dym trafieniu na zadanie dodatkowych 1K6 pkt obraÂ¿eÃ± kÂ³utych
 Waga: 2
-OpóŸnienie: 3
-Rodzaj bieg³oœci: krótki ³uk
-Typ broni: 2-rêczna
-Wymagana si³a: 6
-Nie mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 3
+Rodzaj biegÂ³oÅ“ci: krÃ³tki Â³uk
+Typ broni: 2-rÃªczna
+Wymagana siÂ³a: 6
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
  Mnich
  Kawaler
  Kensai
 ~
-@1032  = ~Marzenie z³odzieja~
-@1033  = ~Marzenie z³odzieja
+@1032  = ~Marzenie zÂ³odzieja~
+@1033  = ~Marzenie zÂ³odzieja
 
-Ta skórzana æwiekowana zbroja ma niewiele wspólnego ze zwyczajn¹ zbroj¹ skórzan¹. Zosta³a uszyta ze Zbroi ¿mii oraz Skóry ghoula, posiada ponadto wplecione niewielkie p³ytki ze skorupy ankhega chroni¹ce u¿ytkownika przed ciosem w plecy. Dodatkowo wzmocniono j¹ licznymi nitami wykonanymi z czystego adamantytu, które tworz¹ elastyczn¹ metalow¹ pow³okê odbijaj¹c¹ ataki sieczne i zatrzymuj¹c¹ czary. Podczas gdy zbrojê tê mo¿e nosiæ niemal ka¿dy, najbardziej u¿yteczna oka¿e siê ona dla tych, którzy pod os³on¹ cienia czuj¹ siê jak w domu.
+Ta skÃ³rzana Ã¦wiekowana zbroja ma niewiele wspÃ³lnego ze zwyczajnÂ¹ zbrojÂ¹ skÃ³rzanÂ¹. ZostaÂ³a uszyta ze Zbroi Â¿mii oraz SkÃ³ry ghoula, posiada ponadto wplecione niewielkie pÂ³ytki ze skorupy ankhega chroniÂ¹ce uÂ¿ytkownika przed ciosem w plecy. Dodatkowo wzmocniono jÂ¹ licznymi nitami wykonanymi z czystego adamantytu, ktÃ³re tworzÂ¹ elastycznÂ¹ metalowÂ¹ powÂ³okÃª odbijajÂ¹cÂ¹ ataki sieczne i zatrzymujÂ¹cÂ¹ czary. Podczas gdy zbrojÃª tÃª moÂ¿e nosiÃ¦ niemal kaÂ¿dy, najbardziej uÂ¿yteczna okaÂ¿e siÃª ona dla tych, ktÃ³rzy pod osÂ³onÂ¹ cienia czujÂ¹ siÃª jak w domu.
 
 PARAMETRY:
 
 Klasa Pancerza: 0
 Specjalne:
- +1 do rzutów obronnych
- Odpornoœæ na cios w plecy
- Odpornoœæ na trucizny
- Niewykrywalnoœæ
- Pozwala rzucaæ niewidzialnoœæ 3 razy dziennie
+ +1 do rzutÃ³w obronnych
+ OdpornoÅ“Ã¦ na cios w plecy
+ OdpornoÅ“Ã¦ na trucizny
+ NiewykrywalnoÅ“Ã¦
+ Pozwala rzucaÃ¦ niewidzialnoÅ“Ã¦ 3 razy dziennie
 Waga: 14
-Wymagana si³a: 9
-Nie mo¿e u¿ywaæ:
+Wymagana siÂ³a: 9
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Mag
  Mnich
- Zmiennokszta³tny
- Mœciciel
+ ZmiennoksztaÂ³tny
+ MÅ“ciciel
  Kensai
 ~
-@1034  = ~Krasnoludzki m³ot do rzucania +4~
-@1035  = ~Krasnoludzki m³ot do rzucania +4
+@1034  = ~Krasnoludzki mÂ³ot do rzucania +4~
+@1035  = ~Krasnoludzki mÂ³ot do rzucania +4
 
-Ten m³ot - nie nale¿y myliæ go z elfim Powalaczem Krasnoludów - mo¿e byæ u¿ywany wy³¹cznie przez krasnoludy. Wprawny krasnoludzki wojownik mo¿e rzuciæ nim w przeciwnika. Magia m³ota powoduje, ¿e m³ot powraca do rêki w³aœciciela. Jeœli trafi przeciwnika do powoduje dwa razy wiêcej obra¿eñ ni¿ normalny m³ot. Zadaje +12 obra¿eñ, gdy trafi olbrzyma lub ogra, z uwagi na nienawiœæ jak¹ ¿ywi¹ krasnoludy w stosunku do tych ras.
+Ten mÂ³ot - nie naleÂ¿y myliÃ¦ go z elfim Powalaczem KrasnoludÃ³w - moÂ¿e byÃ¦ uÂ¿ywany wyÂ³Â¹cznie przez krasnoludy. Wprawny krasnoludzki wojownik moÂ¿e rzuciÃ¦ nim w przeciwnika. Magia mÂ³ota powoduje, Â¿e mÂ³ot powraca do rÃªki wÂ³aÅ“ciciela. JeÅ“li trafi przeciwnika do powoduje dwa razy wiÃªcej obraÂ¿eÃ± niÂ¿ normalny mÂ³ot. Zadaje +12 obraÂ¿eÃ±, gdy trafi olbrzyma lub ogra, z uwagi na nienawiÅ“Ã¦ jakÂ¹ Â¿ywiÂ¹ krasnoludy w stosunku do tych ras.
 
 PARAMETRY:
 
-Obra¿enia: 2K4 +4, +12 przeciwko ogrom i olbrzymom
+ObraÂ¿enia: 2K4 +4, +12 przeciwko ogrom i olbrzymom
 TraK0: +4
-Typ obra¿eñ (walka wrêcz): obuchowe
-Typ obra¿eñ (rzucony): pociski
+Typ obraÂ¿eÃ± (walka wrÃªcz): obuchowe
+Typ obraÂ¿eÃ± (rzucony): pociski
 Specjalne:
-  Wraca do rêki w³aœciciela
+  Wraca do rÃªki wÂ³aÅ“ciciela
 Waga: 4
-OpóŸnienie: 1
-Rodzaj bieg³oœci: m³ot bojowy
-Typ broni: 1-rêczna
-Wymagana si³a: 9
-Nie mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 1
+Rodzaj biegÂ³oÅ“ci: mÂ³ot bojowy
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 9
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Nie-krasnolud
  Paladyn
- £owca
+ Â£owca
  Druid
  Bard
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
 ~
-@1036  = ~Uniwersalny m³ot do rzucania +5~
-@1037  = ~Uniwersalny m³ot do rzucania +5
+@1036  = ~Uniwersalny mÂ³ot do rzucania +5~
+@1037  = ~Uniwersalny mÂ³ot do rzucania +5
 
-Ten m³ot zosta³ w magiczny sposób zmieniony i obecnie mo¿e byæ u¿ywany bez ograniczeñ rasowych. Ta potê¿na broñ zdolna jest z równ¹ skutecznoœci¹ raziæ wroga w zwarciu jak i w walce na dystans, jako ¿e dziêki zawartej w nim magii m³ot powraca do rêki w³aœciciela. M³ot zadaje dodatkowe +12 obra¿eñ, gdy trafi olbrzyma lub ogra, z uwagi na nienawiœæ jak¹ jego krasnoludzcy twórcy ¿ywi¹ w stosunku do tych ras.
+Ten mÂ³ot zostaÂ³ w magiczny sposÃ³b zmieniony i obecnie moÂ¿e byÃ¦ uÂ¿ywany bez ograniczeÃ± rasowych. Ta potÃªÂ¿na broÃ± zdolna jest z rÃ³wnÂ¹ skutecznoÅ“ciÂ¹ raziÃ¦ wroga w zwarciu jak i w walce na dystans, jako Â¿e dziÃªki zawartej w nim magii mÂ³ot powraca do rÃªki wÂ³aÅ“ciciela. MÂ³ot zadaje dodatkowe +12 obraÂ¿eÃ±, gdy trafi olbrzyma lub ogra, z uwagi na nienawiÅ“Ã¦ jakÂ¹ jego krasnoludzcy twÃ³rcy Â¿ywiÂ¹ w stosunku do tych ras.
 
 PARAMETRY:
 
-Obra¿enia: 2K4 +5, +2K2 obra¿eñ od elektrycznoœci, +12 przeciwko ogrom i olbrzymom
+ObraÂ¿enia: 2K4 +5, +2K2 obraÂ¿eÃ± od elektrycznoÅ“ci, +12 przeciwko ogrom i olbrzymom
 TraK0: +5
-Typ obra¿eñ (walka wrêcz): obuchowe
-Typ obra¿eñ (rzucony): pociski
+Typ obraÂ¿eÃ± (walka wrÃªcz): obuchowe
+Typ obraÂ¿eÃ± (rzucony): pociski
 Specjalne:
-  Wraca do rêki w³aœciciela
+  Wraca do rÃªki wÂ³aÅ“ciciela
 Waga: 4
-OpóŸnienie: 1
-Rodzaj bieg³oœci: m³ot bojowy
-Typ broni: 1-rêczna
-Wymagana si³a: 9
-Nie mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 1
+Rodzaj biegÂ³oÅ“ci: mÂ³ot bojowy
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 9
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
- W³adca zwierz¹t
+ WÂ³adca zwierzÂ¹t
 ~
-@1038  = ~Ulepszony kostur Magów~
-@1039  = ~Ulepszony kostur Magów
+@1038  = ~Ulepszony kostur MagÃ³w~
+@1039  = ~Ulepszony kostur MagÃ³w
 
-Ten rodzaj kija jest wszêdzie kojarzony z osobami potrafi¹cymi u¿ywaæ magii, choæ jest bardzo rzadki. Nale¿y do najpotê¿niejszych narzêdzi, jakie mo¿e posiadaæ czarodziej, jest kulminacj¹ skomplikowanych zaklêæ i niekoñcz¹cych siê studiów. Ten konkretny egzemplarz jest dobry w walce wrêcz, zapewnia niewidzialnoœæ, a tak¿e daje ochronê przeciwko urokom i z³u. Mo¿e te¿ rzucaæ zaklêcia Pu³apka na czary, kombinacjê Ognistej kuli i Wy³adowania ³añcuchowego oraz Rozproszenie magii. Typowy przedmiot dla magów.
+Ten rodzaj kija jest wszÃªdzie kojarzony z osobami potrafiÂ¹cymi uÂ¿ywaÃ¦ magii, choÃ¦ jest bardzo rzadki. NaleÂ¿y do najpotÃªÂ¿niejszych narzÃªdzi, jakie moÂ¿e posiadaÃ¦ czarodziej, jest kulminacjÂ¹ skomplikowanych zaklÃªÃ¦ i niekoÃ±czÂ¹cych siÃª studiÃ³w. Ten konkretny egzemplarz jest dobry w walce wrÃªcz, zapewnia niewidzialnoÅ“Ã¦, a takÂ¿e daje ochronÃª przeciwko urokom i zÂ³u. MoÂ¿e teÂ¿ rzucaÃ¦ zaklÃªcia PuÂ³apka na czary, kombinacjÃª Ognistej kuli i WyÂ³adowania Â³aÃ±cuchowego oraz Rozproszenie magii. Typowy przedmiot dla magÃ³w.
 
 PARAMETRY:
 
-Obra¿enia: 1K6 +5
+ObraÂ¿enia: 1K6 +5
 TraK0: +5
-Typ obra¿eñ: obuchowe
+Typ obraÂ¿eÃ±: obuchowe
 Specjalne:
  +2 do Klasy Pancerza
- +2 do rzutów obronnych
- U¿ywany zapewnia niewidzialnoœæ, ochronê przed urokami i z³em.
- Piêæ razy dziennie pozwala rzucaæ po³¹czenie Ognistej kuli i Wy³adowania ³añcuchowego o zasiêgu 50 metrów i zadaj¹ce sumaryczne obra¿enia obu zaklêæ.
- Raz dziennie pozwala rzucaæ zaklêcie Pu³apka na czary, dzia³aj¹ce przez 8 godzin i o sile 30 poziomów czarów.
- Przy ka¿dym trafieniu rzuca Rozproszenie magii.
+ +2 do rzutÃ³w obronnych
+ UÂ¿ywany zapewnia niewidzialnoÅ“Ã¦, ochronÃª przed urokami i zÂ³em.
+ PiÃªÃ¦ razy dziennie pozwala rzucaÃ¦ poÂ³Â¹czenie Ognistej kuli i WyÂ³adowania Â³aÃ±cuchowego o zasiÃªgu 50 metrÃ³w i zadajÂ¹ce sumaryczne obraÂ¿enia obu zaklÃªÃ¦.
+ Raz dziennie pozwala rzucaÃ¦ zaklÃªcie PuÂ³apka na czary, dziaÂ³ajÂ¹ce przez 8 godzin i o sile 30 poziomÃ³w czarÃ³w.
+ Przy kaÂ¿dym trafieniu rzuca Rozproszenie magii.
 Waga: 4
-OpóŸnienie: 4
-Rodzaj bieg³oœci: kij
-Typ broni: 2-rêczna
-Wymagana si³a: 5
-Mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 4
+Rodzaj biegÂ³oÅ“ci: kij
+Typ broni: 2-rÃªczna
+Wymagana siÂ³a: 5
+MoÂ¿e uÂ¿ywaÃ¦:
  Mag
 ~
-@10391 = ~Ognista kula - Wy³adowanie ³añcuchowe~
-@1040  = ~Sztylet do rzucania 'Cicha œmieræ'~
-@1041  = ~Sztylet do rzucania 'Cicha œmieræ'
+@10391 = ~Ognista kula - WyÂ³adowanie Â³aÃ±cuchowe~
+@1040  = ~Sztylet do rzucania 'Cicha Å“mierÃ¦'~
+@1041  = ~Sztylet do rzucania 'Cicha Å“mierÃ¦'
 
-Wykonany przez po³¹czenie Sztyletu Lady Demarche z Kolcem chochlika, ten sztylet jest groŸn¹ broni¹, skuteczn¹ przeciw wrogom zarówno w walce na dystans, jak i w zwarciu. U¿ywany jako broñ miotana sztylet wraca jak gdyby na niewidzialnych skrzyd³ach do rêki w³aœciciela.
+Wykonany przez poÂ³Â¹czenie Sztyletu Lady Demarche z Kolcem chochlika, ten sztylet jest groÅ¸nÂ¹ broniÂ¹, skutecznÂ¹ przeciw wrogom zarÃ³wno w walce na dystans, jak i w zwarciu. UÂ¿ywany jako broÃ± miotana sztylet wraca jak gdyby na niewidzialnych skrzydÂ³ach do rÃªki wÂ³aÅ“ciciela.
 
 PARAMETRY:
 
-Obra¿enia: 2K4 +4
+ObraÂ¿enia: 2K4 +4
 TraK0: +4
-Typ obra¿eñ (walka wrêcz): k³ute
-Typ obra¿eñ (pocisk): k³ute
+Typ obraÂ¿eÃ± (walka wrÃªcz): kÂ³ute
+Typ obraÂ¿eÃ± (pocisk): kÂ³ute
 Specjalne:
- Wraca do rêki w³aœciciela
- 20% szansa przy ka¿dym trafieniu, ¿e ofiara bêdzie musia³a wykonaæ rzut obronny przeciw œmierci albo zostanie unieruchomiona na dwie rundy
- 20% szansa przy ka¿dym trafieniu, ¿e ofiara bêdzie musia³a wykonaæ rzut obronny przeciwko truciŸnie albo zaœnie na 2 rundy
- Cel musi wykonaæ rzut obronny przeciwko truciŸnie albo bêdzie otrzymywa³ 1 punkt obra¿eñ od trucizny co sekundê przez 2 rundy
+ Wraca do rÃªki wÂ³aÅ“ciciela
+ 20% szansa przy kaÂ¿dym trafieniu, Â¿e ofiara bÃªdzie musiaÂ³a wykonaÃ¦ rzut obronny przeciw Å“mierci albo zostanie unieruchomiona na dwie rundy
+ 20% szansa przy kaÂ¿dym trafieniu, Â¿e ofiara bÃªdzie musiaÂ³a wykonaÃ¦ rzut obronny przeciwko truciÅ¸nie albo zaÅ“nie na 2 rundy
+ Cel musi wykonaÃ¦ rzut obronny przeciwko truciÅ¸nie albo bÃªdzie otrzymywaÂ³ 1 punkt obraÂ¿eÃ± od trucizny co sekundÃª przez 2 rundy
 Waga: 1
-OpóŸnienie: 0
-Rodzaj bieg³oœci: sztylet
-Typ broni: 1-rêczna
-Wymagana si³a: 3
-Nie mo¿e u¿ywaæ:
- Kap³an
- W³adca zwierz¹t
+OpÃ³Å¸nienie: 0
+Rodzaj biegÂ³oÅ“ci: sztylet
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 3
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ KapÂ³an
+ WÂ³adca zwierzÂ¹t
 ~
-@1042  = ~Krótki miecz wolnoœci +5~
-@1043  = ~Krótki miecz wolnoœci +5
+@1042  = ~KrÃ³tki miecz wolnoÅ“ci +5~
+@1043  = ~KrÃ³tki miecz wolnoÅ“ci +5
 
-Ten miecz zapewnia skuteczn¹ ochronê przeciw czarom atakuj¹cym umys³, a tak¿e przeciwko parali¿uj¹cym atakom potworów. Jest to rezultat skucia ze sob¹ kilku s³abszych ostrzy i po³¹czenia ich mocy. Perfekcyjne wywa¿enie miecza i nadzwyczaj ostra klinga pozwalaj¹ na czêstsze trafienia krytyczne.
+Ten miecz zapewnia skutecznÂ¹ ochronÃª przeciw czarom atakujÂ¹cym umysÂ³, a takÂ¿e przeciwko paraliÂ¿ujÂ¹cym atakom potworÃ³w. Jest to rezultat skucia ze sobÂ¹ kilku sÂ³abszych ostrzy i poÂ³Â¹czenia ich mocy. Perfekcyjne wywaÂ¿enie miecza i nadzwyczaj ostra klinga pozwalajÂ¹ na czÃªstsze trafienia krytyczne.
 
 PARAMETRY:
 
-Obra¿enia: 1K6 +5
+ObraÂ¿enia: 1K6 +5
 TraK0: +5
-Typ obra¿eñ: k³ute
+Typ obraÂ¿eÃ±: kÂ³ute
 Specjalne:
- Odpornoœæ na Zauroczenie, Dominacjê i Zamêt
- Odpornoœæ na Unieruchomienie i Og³uszenie
- Jeden dodatkowy atak na rundê
+ OdpornoÅ“Ã¦ na Zauroczenie, DominacjÃª i ZamÃªt
+ OdpornoÅ“Ã¦ na Unieruchomienie i OgÂ³uszenie
+ Jeden dodatkowy atak na rundÃª
  Ulepszone trafienie krytyczne (przy rzutach 19 i 20)
  Dwa razy dziennie rzuca Lustrzane odbicie
- Dwa razy dziennie rzuca Ulepszone przyspieszenie ruchów na 5 rund
- Ofiara musi wykonaæ rzut obronny przeciwko magii (z modyfikatorem -2) lub zostanie uciszona na 2 rundy
- Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposób punkty nie przekrocz¹ jednak jego maksymalnych P¯.
+ Dwa razy dziennie rzuca Ulepszone przyspieszenie ruchÃ³w na 5 rund
+ Ofiara musi wykonaÃ¦ rzut obronny przeciwko magii (z modyfikatorem -2) lub zostanie uciszona na 2 rundy
+ KaÂ¿de trafienie wysysa z ofiary 2 punkty Â¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposÃ³b punkty nie przekroczÂ¹ jednak jego maksymalnych PÂ¯.
 Waga: 2
-OpóŸnienie: 1
-Rodzaj bieg³oœci: krótki miecz
-Typ broni: 1-rêczna
-Wymagana si³a: 5
-Nie mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 1
+Rodzaj biegÂ³oÅ“ci: krÃ³tki miecz
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 5
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
- W³adca zwierz¹t
+ WÂ³adca zwierzÂ¹t
 ~
-@1044  = ~D³ugi miecz wolnoœci +5~
-@1045  = ~D³ugi miecz wolnoœci +5
+@1044  = ~DÂ³ugi miecz wolnoÅ“ci +5~
+@1045  = ~DÂ³ugi miecz wolnoÅ“ci +5
 
-Ten miecz zapewnia skuteczn¹ ochronê przeciw czarom atakuj¹cym umys³, a tak¿e przeciwko parali¿uj¹cym atakom potworów. Jest to rezultat skucia ze sob¹ kilku s³abszych ostrzy i po³¹czenia ich mocy. Perfekcyjne wywa¿enie miecza i nadzwyczaj ostra klinga pozwalaj¹ na czêstsze trafienia krytyczne.
+Ten miecz zapewnia skutecznÂ¹ ochronÃª przeciw czarom atakujÂ¹cym umysÂ³, a takÂ¿e przeciwko paraliÂ¿ujÂ¹cym atakom potworÃ³w. Jest to rezultat skucia ze sobÂ¹ kilku sÂ³abszych ostrzy i poÂ³Â¹czenia ich mocy. Perfekcyjne wywaÂ¿enie miecza i nadzwyczaj ostra klinga pozwalajÂ¹ na czÃªstsze trafienia krytyczne.
 
 PARAMETRY:
 
-Obra¿enia: 1K8 +5
+ObraÂ¿enia: 1K8 +5
 TraK0: +5
-Typ obra¿eñ: sieczne
+Typ obraÂ¿eÃ±: sieczne
 Specjalne:
- Odpornoœæ na Zauroczenie, Dominacjê i Zamêt
- Odpornoœæ na Unieruchomienie i Og³uszenie
- Jeden dodatkowy atak na rundê
+ OdpornoÅ“Ã¦ na Zauroczenie, DominacjÃª i ZamÃªt
+ OdpornoÅ“Ã¦ na Unieruchomienie i OgÂ³uszenie
+ Jeden dodatkowy atak na rundÃª
  Ulepszone trafienie krytyczne (przy rzutach 19 i 20)
  Dwa razy dziennie rzuca Lustrzane odbicie
- Dwa razy dziennie rzuca Ulepszone przyspieszenie ruchów na 5 rund
- Ofiara musi wykonaæ rzut obronny przeciwko magii (z modyfikatorem -2) lub zostanie uciszona na 2 rundy
- Ka¿de trafienie wysysa z ofiary 2 punkty ¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposób punkty nie przekrocz¹ jednak jego maksymalnych P¯.
+ Dwa razy dziennie rzuca Ulepszone przyspieszenie ruchÃ³w na 5 rund
+ Ofiara musi wykonaÃ¦ rzut obronny przeciwko magii (z modyfikatorem -2) lub zostanie uciszona na 2 rundy
+ KaÂ¿de trafienie wysysa z ofiary 2 punkty Â¿ycia i przekazuje go posiadaczowi miecza. Zgromadzone w ten sposÃ³b punkty nie przekroczÂ¹ jednak jego maksymalnych PÂ¯.
 Waga: 3
-OpóŸnienie: 2
-Rodzaj bieg³oœci: d³ugi miecz
-Typ broni: 1-rêczna
-Wymagana si³a: 6
-Nie mo¿e u¿ywaæ:
+OpÃ³Å¸nienie: 2
+Rodzaj biegÂ³oÅ“ci: dÂ³ugi miecz
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 6
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
- W³adca zwierz¹t
+ WÂ³adca zwierzÂ¹t
 ~
-@1046  = ~Zbroja ³uskowa 'Dwa smoki'~
-@1047  = ~Zbroja ³uskowa 'Dwa smoki'
+@1046  = ~Zbroja Â³uskowa 'Dwa smoki'~
+@1047  = ~Zbroja Â³uskowa 'Dwa smoki'
 
-Ten pancerz jest wykonany z zachodz¹cych na siebie ³usek smoka cienia i czerwonego smoka. £uski te daj¹ w³aœcicielowi ochronê przed ogniem i kwasem, a ponadto zbroja ta przejê³a w³aœciwoœci Pasa bezw³adnej bariery. Niewielka waga pancerza pozwala na to, by mogli go nosiæ wojownicy/magowie oraz z³odzieje z nieznacznymi ograniczeniami ich umiejêtnoœci.
+Ten pancerz jest wykonany z zachodzÂ¹cych na siebie Â³usek smoka cienia i czerwonego smoka. Â£uski te dajÂ¹ wÂ³aÅ“cicielowi ochronÃª przed ogniem i kwasem, a ponadto zbroja ta przejÃªÂ³a wÂ³aÅ“ciwoÅ“ci Pasa bezwÂ³adnej bariery. Niewielka waga pancerza pozwala na to, by mogli go nosiÃ¦ wojownicy/magowie oraz zÂ³odzieje z nieznacznymi ograniczeniami ich umiejÃªtnoÅ“ci.
 
 PARAMETRY:
 
 Klasa Pancerza: 0
 Specjalne:
- +50% do odpornoœci na ogieñ, kwas i obra¿enia magiczne
- +3 do rzutów obronnych przeciw zioniêciom
+ +50% do odpornoÅ“ci na ogieÃ±, kwas i obraÂ¿enia magiczne
+ +3 do rzutÃ³w obronnych przeciw zioniÃªciom
 Waga: 10
-Wymagana si³a: 8
-Nie mo¿e u¿ywaæ:
+Wymagana siÂ³a: 8
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Mag (jednoklasowiec)
  Mnich
  Kensai
- Zmiennokszta³tny
+ ZmiennoksztaÂ³tny
 ~
-@1048  = ~Pe³na zbroja p³ytowa +4~
-@1049  = ~Pe³na zbroja p³ytowa +4
+@1048  = ~PeÂ³na zbroja pÂ³ytowa +4~
+@1049  = ~PeÂ³na zbroja pÂ³ytowa +4
 
-Ten komplet zbroi zosta³ wykonany z niezwykle rzadkiego stopu ilitu oraz adamantytu. Stop jest bardzo wytrzyma³y, a ponadto zapewnia ochronê przed wyssaniem poziomów oraz zaklêciami 1. poziomu.
+Ten komplet zbroi zostaÂ³ wykonany z niezwykle rzadkiego stopu ilitu oraz adamantytu. Stop jest bardzo wytrzymaÂ³y, a ponadto zapewnia ochronÃª przed wyssaniem poziomÃ³w oraz zaklÃªciami 1. poziomu.
 
 PARAMETRY:
 
 Klasa Pancerza: -3
 Specjalne:
- Odpornoœæ na wyssanie poziomów
- Odpornoœæ na zaklêcia 1. poziomu
+ OdpornoÅ“Ã¦ na wyssanie poziomÃ³w
+ OdpornoÅ“Ã¦ na zaklÃªcia 1. poziomu
 Waga: 50
-Wymagana si³a: 15
-Nie mo¿e u¿ywaæ:
+Wymagana siÂ³a: 15
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
  Bard
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
- Barbarzyñca
- £ucznik
- W³adca zwierz¹t
+ BarbarzyÃ±ca
+ Â£ucznik
+ WÂ³adca zwierzÂ¹t
  Stalker
  Kensai
 ~
-@1050  = ~Udoskonalone rêkawice leczenia~
-@1051  = ~Udoskonalone rêkawice leczenia
+@1050  = ~Udoskonalone rÃªkawice leczenia~
+@1051  = ~Udoskonalone rÃªkawice leczenia
 
-Te rêkawice zosta³y ulepszone w magiczny sposób i obecnie potrafi¹ równie¿ chroniæ nosz¹cego.
+Te rÃªkawice zostaÂ³y ulepszone w magiczny sposÃ³b i obecnie potrafiÂ¹ rÃ³wnieÂ¿ chroniÃ¦ noszÂ¹cego.
 
 PARAMETRY:
 
 +2 do Klasy Pancerza
-+1 do rzutów obronnych
-Odpornoœæ na trucizny
-Regeneruj¹ 1 pkt ¿ycia co 6 sekund
++1 do rzutÃ³w obronnych
+OdpornoÅ“Ã¦ na trucizny
+RegenerujÂ¹ 1 pkt Â¿ycia co 6 sekund
 
 Waga: 2
-Nie mo¿e u¿ywaæ:
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
- Kap³an
+ KapÂ³an
  Mag
- Zabójca magów
+ ZabÃ³jca magÃ³w
  Kensai
 ~
-@1052  = ~Wekiera zniszczeñ +3~
-@1053  = ~Wekiera zniszczeñ +3
+@1052  = ~Wekiera zniszczeÃ± +3~
+@1053  = ~Wekiera zniszczeÃ± +3
 
-Ta ciê¿ka wekiera zosta³a stworzona w œciœle okreœlonym celu: do niszczenia nieumar³ych. Ka¿da trafiona ni¹ taka istota odczuwa nie tylko ¿¹d³o broni, ale mo¿e te¿ po prostu ulec zniszczeniu. Istniej¹ legendy o kap³ance tak œwiêtej, ¿e jedno jej dotkniêcie mog³o obróciæ wampira w nicoœæ, ale czy to broñ dawa³a jej tak¹ si³ê, czy ona broni, jest tematem dyskusji dla teologów.
-Niedawno wekiera zosta³a pokryta ilitem, co czyni j¹ jeszcze potê¿niejsz¹. Dziêki temu orê¿ ten zapewnia swemu posiadaczowi niewra¿liwoœæ na dzia³anie mocy wysysania ¿ycia, jak¹ posiadaj¹ potê¿niejsi nieumarli. Istnieje ponadto szansa, ¿e wekiera spowolni ka¿dego wroga, który zostanie ni¹ trafiony.
+Ta ciÃªÂ¿ka wekiera zostaÂ³a stworzona w Å“ciÅ“le okreÅ“lonym celu: do niszczenia nieumarÂ³ych. KaÂ¿da trafiona niÂ¹ taka istota odczuwa nie tylko Â¿Â¹dÂ³o broni, ale moÂ¿e teÂ¿ po prostu ulec zniszczeniu. IstniejÂ¹ legendy o kapÂ³ance tak Å“wiÃªtej, Â¿e jedno jej dotkniÃªcie mogÂ³o obrÃ³ciÃ¦ wampira w nicoÅ“Ã¦, ale czy to broÃ± dawaÂ³a jej takÂ¹ siÂ³Ãª, czy ona broni, jest tematem dyskusji dla teologÃ³w.
+Niedawno wekiera zostaÂ³a pokryta ilitem, co czyni jÂ¹ jeszcze potÃªÂ¿niejszÂ¹. DziÃªki temu orÃªÂ¿ ten zapewnia swemu posiadaczowi niewraÂ¿liwoÅ“Ã¦ na dziaÂ³anie mocy wysysania Â¿ycia, jakÂ¹ posiadajÂ¹ potÃªÂ¿niejsi nieumarli. Istnieje ponadto szansa, Â¿e wekiera spowolni kaÂ¿dego wroga, ktÃ³ry zostanie niÂ¹ trafiony.
 
 PARAMETRY:
 
-Obra¿enia: 1K6 +4
+ObraÂ¿enia: 1K6 +4
 TraK0: +3
-Typ obra¿eñ: obuchowe
+Typ obraÂ¿eÃ±: obuchowe
 Specjalne:
- Odpornoœæ na wyssanie poziomów
- 2K6 +4 obra¿eñ dla nieumar³ych, oprócz tego musz¹ wykonaæ rzut obronny przeciw œmierci (z modyfikatorem -4) albo ulegaj¹ zniszczeniu
- 50% szansa, ¿e trafiony przeciwnik bêdzie musia³ wykonaæ rzut obronny przeciw czarom lub zostanie spowolniony na 15 sekund
+ OdpornoÅ“Ã¦ na wyssanie poziomÃ³w
+ 2K6 +4 obraÂ¿eÃ± dla nieumarÂ³ych, oprÃ³cz tego muszÂ¹ wykonaÃ¦ rzut obronny przeciw Å“mierci (z modyfikatorem -4) albo ulegajÂ¹ zniszczeniu
+ 50% szansa, Â¿e trafiony przeciwnik bÃªdzie musiaÂ³ wykonaÃ¦ rzut obronny przeciw czarom lub zostanie spowolniony na 15 sekund
 Waga: 8
-OpóŸnienie: 6
+OpÃ³Å¸nienie: 6
 Umagicznienie: +5
-Rodzaj bieg³oœci: wekiera
-Typ broni: 1-rêczna
-Wymagana si³a: 10
-Nie mo¿e u¿ywaæ:
+Rodzaj biegÂ³oÅ“ci: wekiera
+Typ broni: 1-rÃªczna
+Wymagana siÂ³a: 10
+Nie moÂ¿e uÂ¿ywaÃ¦:
  Druid
  Mag
- Z³odziej
+ ZÂ³odziej
  Mnich
- W³adca zwierz¹t
+ WÂ³adca zwierzÂ¹t
 ~
-@1054  = ~Pierœcieñ swobody ruchów +1~
-@1055  = ~Pierœcieñ swobody ruchów +1
+@1054  = ~PierÅ“cieÃ± swobody ruchÃ³w +1~
+@1055  = ~PierÅ“cieÃ± swobody ruchÃ³w +1
 
-Ten pierœcieñ zosta³ w magiczny sposób zmieniony i posiada obecnie po³¹czone w³aœciwoœci Pierœcienia ochrony +1 oraz Pierœcienia swobody ruchów.
+Ten pierÅ“cieÃ± zostaÂ³ w magiczny sposÃ³b zmieniony i posiada obecnie poÂ³Â¹czone wÂ³aÅ“ciwoÅ“ci PierÅ“cienia ochrony +1 oraz PierÅ“cienia swobody ruchÃ³w.
 
 PARAMETRY:
 
 +1 do Klasy Pancerza
-+1 do rzutów obronnych
++1 do rzutÃ³w obronnych
 Specjalne:
- Nosz¹cy pierœcieñ jest odporny na ka¿de magiczne i naturalne dzia³anie, które w jakikolwiek sposób wp³ywa na swobodê ruchów. To dotyczy tak¿e zaklêæ spowalniania i przyspieszania ruchów.
+ NoszÂ¹cy pierÅ“cieÃ± jest odporny na kaÂ¿de magiczne i naturalne dziaÂ³anie, ktÃ³re w jakikolwiek sposÃ³b wpÂ³ywa na swobodÃª ruchÃ³w. To dotyczy takÂ¿e zaklÃªÃ¦ spowalniania i przyspieszania ruchÃ³w.
 
-Nie mo¿e u¿ywaæ:
- Zabójca magów
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZabÃ³jca magÃ³w
 ~
-@1056  = ~Pierœcieñ swobody ruchów +2~
-@1057  = ~Pierœcieñ swobody ruchów +2
+@1056  = ~PierÅ“cieÃ± swobody ruchÃ³w +2~
+@1057  = ~PierÅ“cieÃ± swobody ruchÃ³w +2
 
-Ten pierœcieñ zosta³ w magiczny sposób zmieniony i posiada obecnie po³¹czone w³aœciwoœci Pierœcienia ochrony +2 oraz Pierœcienia swobody ruchów.
+Ten pierÅ“cieÃ± zostaÂ³ w magiczny sposÃ³b zmieniony i posiada obecnie poÂ³Â¹czone wÂ³aÅ“ciwoÅ“ci PierÅ“cienia ochrony +2 oraz PierÅ“cienia swobody ruchÃ³w.
 
 PARAMETRY:
 
 +2 do Klasy Pancerza
-+2 do rzutów obronnych
++2 do rzutÃ³w obronnych
 Specjalne:
- Nosz¹cy pierœcieñ jest odporny na ka¿de magiczne i naturalne dzia³anie, które w jakikolwiek sposób wp³ywa na swobodê ruchów. To dotyczy tak¿e zaklêæ spowalniania i przyspieszania ruchów.
+ NoszÂ¹cy pierÅ“cieÃ± jest odporny na kaÂ¿de magiczne i naturalne dziaÂ³anie, ktÃ³re w jakikolwiek sposÃ³b wpÂ³ywa na swobodÃª ruchÃ³w. To dotyczy takÂ¿e zaklÃªÃ¦ spowalniania i przyspieszania ruchÃ³w.
 
-Nie mo¿e u¿ywaæ:
- Zabójca magów
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZabÃ³jca magÃ³w
 ~
-@1058  = ~Udoskonalony pierœcieñ Gaxxa~
-@1059  = ~Udoskonalony pierœcieñ Gaxxa
+@1058  = ~Udoskonalony pierÅ“cieÃ± Gaxxa~
+@1059  = ~Udoskonalony pierÅ“cieÃ± Gaxxa
 
-Ten pierœcieñ nie jest specjalnie zdobiony, jednak przeklêta magia promieniuje intensywnym z³em. W istocie, jego twórca, Kangaxx nie wiele by³ lepszy, nawet na tysi¹ce lat przed tym jak nieumarli uroœli w si³ê. Mówi siê, ¿e kadra magów z Netherilu walczy³a i uwiêzi³a kiedyœ pó³lisza, ale nie bêd¹c w stanie naprawdê go zniszczyæ sami stali siê liszami, by trzymaæ od tej pory stra¿ przy jego szcz¹tkach. Wykonanie pierœcienia mog³o doprowadziæ do ich wrogoœci, jako ¿e na ka¿dej z dziewiêciu faset klejnotu wypisana by³a podobno ofiara i œmieræ.
-Pierœcieñ ten zosta³ magicznie zmieniony i w rezultacie jego w³aœciwoœci zosta³y wzmocnione.
+Ten pierÅ“cieÃ± nie jest specjalnie zdobiony, jednak przeklÃªta magia promieniuje intensywnym zÂ³em. W istocie, jego twÃ³rca, Kangaxx nie wiele byÂ³ lepszy, nawet na tysiÂ¹ce lat przed tym jak nieumarli uroÅ“li w siÂ³Ãª. MÃ³wi siÃª, Â¿e kadra magÃ³w z Netherilu walczyÂ³a i uwiÃªziÂ³a kiedyÅ“ pÃ³Â³lisza, ale nie bÃªdÂ¹c w stanie naprawdÃª go zniszczyÃ¦ sami stali siÃª liszami, by trzymaÃ¦ od tej pory straÂ¿ przy jego szczÂ¹tkach. Wykonanie pierÅ“cienia mogÂ³o doprowadziÃ¦ do ich wrogoÅ“ci, jako Â¿e na kaÂ¿dej z dziewiÃªciu faset klejnotu wypisana byÂ³a podobno ofiara i Å“mierÃ¦.
+PierÅ“cieÃ± ten zostaÂ³ magicznie zmieniony i w rezultacie jego wÂ³aÅ“ciwoÅ“ci zostaÂ³y wzmocnione.
 
 PARAMETRY:
 
 Specjalne:
  +2 do Klasy Pancerza
- +2 do rzutów obronnych
- +10% do odpornoœci na magiê
- Odpornoœæ na choroby i trucizny
- Regeneruje 1 pkt ¿ycia co sekundê
- Raz dziennie mo¿e rzucaæ Ulepszon¹ niewidzialnoœæ na 10 rund
- Trzy razy dziennie mo¿e rzucaæ Ulepszone przyspieszenie ruchów na 5 rund
+ +2 do rzutÃ³w obronnych
+ +10% do odpornoÅ“ci na magiÃª
+ OdpornoÅ“Ã¦ na choroby i trucizny
+ Regeneruje 1 pkt Â¿ycia co sekundÃª
+ Raz dziennie moÂ¿e rzucaÃ¦ UlepszonÂ¹ niewidzialnoÅ“Ã¦ na 10 rund
+ Trzy razy dziennie moÂ¿e rzucaÃ¦ Ulepszone przyspieszenie ruchÃ³w na 5 rund
 
-Nie mo¿e u¿ywaæ:
- Zabójca magów
+Nie moÂ¿e uÂ¿ywaÃ¦:
+ ZabÃ³jca magÃ³w
 ~

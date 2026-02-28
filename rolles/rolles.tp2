@@ -11,11 +11,12 @@ README ~rolles/readme/rolles-readme-%LANGUAGE%.txt~ ~rolles/readme/rolles-readme
 ALWAYS
 
 	/* Converts tra files to UTF-8 */
-	ACTION_DEFINE_ARRAY s#_reload BEGIN setup END
-	ACTION_DEFINE_ARRAY s#_noconvert BEGIN install END
+	ACTION_DEFINE_ARRAY s#_reload BEGIN END
+	ACTION_DEFINE_ARRAY s#_noconvert BEGIN setup END
 	LAF HANDLE_CHARSETS
 		INT_VAR
 			infer_charset = 1
+			from_utf8 = 1
 		STR_VAR
 			tra_path = EVAL ~%MOD_FOLDER%/tra~
 			noconvert_array = s#_noconvert
@@ -48,7 +49,7 @@ LANGUAGE ~Polski (tlumaczenie: Aristo)~
 		 
 LANGUAGE ~Simplified Chinese~
          ~schinese~
-         ~rolles/tra/schinese/install.tra~
+         ~rolles/tra/schinese/setup.tra~
 
 /* ==================================== *
  *         Rolles Safyer (ToB)          *
